@@ -1,6 +1,6 @@
 # Test Driven Learning (TDL) avec Go
 
-Dépôt pour l'article http://ldez.github.io/blog/2015/12/04/test-driven-learning-go/.
+Dépôt pour l'article http://ldez.github.io/blog/2015/12/04/test-driven-learning-go
 
 ## Introduction
 
@@ -15,4 +15,4 @@ C'est un kata très simple que je connais bien, je l'ai fait avec différentes c
 C'est parti !
 
 
-**Suite de l'article :** http://ldez.github.io/blog/2015/12/04/test-driven-learning-go/
+**Suite de l'article :** http://ldez.github.io/blog/2015/12/04/test-driven-learning-go
